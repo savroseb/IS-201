@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(243, 245, 247);
+}
+
+#img {
+    width: 100%;
+    height: auto  
+}
+
+#img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+#vid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#link {
+    color: rgb(4, 4, 175);
+    font-size: smaller;
+}
+#center {
+    text-align: center;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+h5{
+    font-size: 18px;
+}
+
+li {
+    font-size: 18px;
+}
+
+#dates {
+    font-style: italic;
+    font-size: 15px;
+}
+
